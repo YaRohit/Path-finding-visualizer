@@ -1,4 +1,6 @@
 # Path Finding Algorithm Visualizer 
+link to the website -->
+https://yarohit.github.io/Path-finding-visualizer/
 
 This is a simple web-based application that visualizes the algorithms like DFS and BFS - path-finding algorithm visualizer.
 
